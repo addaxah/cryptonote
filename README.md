@@ -183,7 +183,7 @@ const char GENESIS_COINBASE_TX_HEX[] = "013c01ff0001ffff...785a33d9ebdba68b0";
 Recompile everything again. Your coin code is ready now. Make an announcement for the potential users and enjoy!
 
 
-## Building CryptoNote 
+## Building Daemon,Wallet,Miner
 
 ### On *nix
 
